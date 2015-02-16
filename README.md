@@ -1,6 +1,6 @@
 # Eureka-widget-application-header
 
-This README outlines the details of collaborating on this Ember addon.
+An header for an Eureka's application.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "eureka-widget-application-header",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An header for an Eureka's application",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,7 +35,8 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "eureka-widget"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
