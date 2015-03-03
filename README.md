@@ -1,6 +1,6 @@
-# Eureka-widget-application-header
+# Eureka-widget-application-navbar
 
-An header for an Eureka's application.
+A navigation bar for an Eureka's application.
 
 ## Installation
 

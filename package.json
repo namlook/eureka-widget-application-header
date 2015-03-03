@@ -1,7 +1,7 @@
 {
-  "name": "eureka-widget-application-header",
+  "name": "eureka-widget-application-navbar",
   "version": "0.0.1",
-  "description": "An header for an Eureka's application",
+  "description": "A navigation bar for an Eureka's application",
   "directories": {
     "doc": "doc",
     "test": "tests"

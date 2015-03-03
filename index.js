@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'eureka-widget-application-header'
+  name: 'eureka-widget-application-navbar'
 };

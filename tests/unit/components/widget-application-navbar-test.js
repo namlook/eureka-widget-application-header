@@ -3,7 +3,7 @@ import {
   test
 } from 'ember-qunit';
 
-moduleForComponent('widget-application-header', 'WidgetApplicationHeaderComponent', {
+moduleForComponent('widget-application-navbar', 'WidgetApplicationNavbarComponent', {
   // specify the other units that are required for this test
   // needs: ['component:foo', 'helper:bar']
 });
