@@ -1,6 +1,13 @@
 # Eureka-widget-application-navbar
 
-A navigation bar for an Eureka's application.
+A navigation bar for an Eureka's application. Usage:
+
+    {
+        type: 'application-navbar',
+
+        // the application brand displayed at the left of the navbar
+        brand: 'My application'
+    }
 
 ## Installation
 
