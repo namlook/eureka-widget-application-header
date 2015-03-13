@@ -1,6 +1,6 @@
 {
   "name": "eureka-widget-application-navbar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A navigation bar for an Eureka's application",
   "directories": {
     "doc": "doc",
