@@ -6,6 +6,6 @@ module.exports = {
 
     included: function included(app) {
         this._super.included(app);
-        app.import('vendor/app.css');
+        app.import('vendor/widget.css');
     }
 };
